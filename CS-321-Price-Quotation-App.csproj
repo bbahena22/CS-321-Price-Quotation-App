@@ -4,7 +4,17 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>CS_321_Price_Quotation_App</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="WebApplication1/**/*.cs" />
+    <Compile Remove="WebApplication2/**/*.cs" />
+    <Content Remove="WebApplication1/**" />
+    <Content Remove="WebApplication2/**" />
+    <None Remove="WebApplication1/**" />
+    <None Remove="WebApplication2/**" />
+    <RazorComponent Remove="WebApplication1/**" />
+    <RazorComponent Remove="WebApplication2/**" />
+  </ItemGroup>
 
 </Project>

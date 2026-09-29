@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrWzBFF9g8g=",
+  "success": true,
+  "projectFilePath": "/Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/WebApplication2/WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "/Users/brandonmariobahena/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/Users/brandonmariobahena/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
