@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS-321-Price-Quotation-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0da7dc6ca1b7dc03c1e64ae1f49e19891da4241a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e80855c62a78cab1cd463d385ccce9d0c5d168e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS-321-Price-Quotation-App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS-321-Price-Quotation-App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

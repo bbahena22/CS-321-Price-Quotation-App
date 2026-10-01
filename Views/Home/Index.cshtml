@@ -4,7 +4,7 @@
     ViewData["Title"] = "Price Quotation Program";
 }
 <h1>Price Quotation Program</h1>
-<p>This is a Price Quotation Calculator for Assignment 1 for CS-321.</p>
+<p>This is a Price Quotation Calculator for Assignment 2 for CS-321.</p>
 <h2>Calculator</h2>
 <form asp-action="Index" method="post" class="mt-4">
     <div asp-validation-summary="All" class="text-danger mb-3"></div>
@@ -34,6 +34,6 @@
     </div>
     <div class="d-flex gap-2">
         <button type="submit" class="btn btn-primary">Calculate</button>
-    <a asp-action="Index" class="btn btn-secondary">Clear</a>
+    <a asp-action="Index" class="btn btn-clear">Clear</a>
     </div>
 </form>

@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Watch CS-321 Price Quotation App",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "dotnet watch --project CS-321-Price-Quotation-App.csproj run --urls http://localhost:5000"
+        },
+        {
             "name": "Debug CS-321 Price Quotation App",
             "type": "coreclr",
             "request": "launch",

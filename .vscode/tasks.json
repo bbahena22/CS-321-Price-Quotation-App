@@ -4,7 +4,7 @@
         {
             "label": "Watch CS-321 Price Quotation App",
             "type": "shell",
-            "command": "dotnet watch run --project CS-321-Price-Quotation-App.csproj",
+            "command": "dotnet watch --project CS-321-Price-Quotation-App.csproj run --urls http://localhost:5000",
             "isBackground": true,
             "problemMatcher": {
                 "owner": "dotnet-watch",
@@ -21,6 +21,9 @@
                 "reveal": "always",
                 "panel": "dedicated",
                 "clear": false
+            },
+            "runOptions": {
+                "reevaluateOnRerun": true
             }
         }
     ]

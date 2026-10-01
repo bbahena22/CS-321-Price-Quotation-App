@@ -9,7 +9,7 @@ html {
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem darkolivegreen;
 }
 
 html {
@@ -31,12 +31,12 @@ body {
 }
 
 h1 {
-  color: darkblue;
+  color: darkolivegreen;
   font-weight: bold;
 }
 
 h2 {
-  color: darkblue;
+  color: darkolivegreen;
 }
 
 p {
@@ -64,8 +64,40 @@ p {
   margin-bottom: 20px;
 }
 
+.btn-primary {
+  background-color: darkolivegreen;
+  border-color: darkolivegreen;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #4f6320;
+  border-color: #4f6320;
+  color: white;
+}
+
 .header-container {
-  background-color: blue;
-  padding: 10px;
+  width: 100%;
+  min-height: 120px;
+  box-sizing: border-box;
+  background-color: darkolivegreen;
+  color: white;
+  padding: 50px;
   font-weight: bold;
+  text-align: center; 
+  border-radius: 8px;
+  padding-bottom: 50px;
+  font-size: 50px;
 } 
+
+.btn-clear {
+  background-color: darkolivegreen;
+  border-color: darkolivegreen;
+  color: white;
+}
+
+.btn-clear:hover {
+  background-color: #4f6320;
+  border-color: #4f6320;
+  color: white;
+}
