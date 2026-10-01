@@ -29,3 +29,33 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+h1 {
+  color: darkblue;
+  font-weight: bold;
+}
+
+h2 {
+  color: darkblue;
+}
+
+p {
+  font-weight: bold;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: darkblue;
+}
+
+.col-sm-4 {
+  font-weight: bold;
+}
+
+.form-control {
+  font-weight: bold;
+  border: 2px solid gray;
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: 20px;
+}
