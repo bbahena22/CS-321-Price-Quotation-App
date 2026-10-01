@@ -22,7 +22,6 @@
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/scopedcss/bundle/CS-321-Price-Quotation-App.styles.css
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/scopedcss/projectbundle/CS-321-Price-Quotation-App.bundle.scp.css
-/Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/compressed/p3y8hx153t-{0}-b9sayid5wm-b9sayid5wm.gz
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/compressed/rog75xvjby-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/compressed/kc28mqte4y-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/compressed/olaj6w270l-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -96,3 +95,5 @@
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/CS-321-Price-Quotation-App.pdb
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/CS-321-Price-Quotation-App.genruntimeconfig.cache
 /Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/ref/CS-321-Price-Quotation-App.dll
+/Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/bin/Debug/net10.0/libman.json
+/Users/brandonmariobahena/CS_300/temp/CS-321-Price-Quotation-App/obj/Debug/net10.0/compressed/p3y8hx153t-{0}-ayloyo3u7o-ayloyo3u7o.gz
