@@ -63,3 +63,9 @@ p {
 .row {
   margin-bottom: 20px;
 }
+
+.header-container {
+  background-color: blue;
+  padding: 10px;
+  font-weight: bold;
+} 

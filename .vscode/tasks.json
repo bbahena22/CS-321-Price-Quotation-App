@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Watch CS-321 Price Quotation App",
+            "type": "shell",
+            "command": "dotnet watch run --project CS-321-Price-Quotation-App.csproj",
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "dotnet-watch",
+                "pattern": {
+                    "regexp": ".*"
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "watch : Started",
+                    "endsPattern": "Now listening on:"
+                }
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "clear": false
+            }
+        }
+    ]
+}
