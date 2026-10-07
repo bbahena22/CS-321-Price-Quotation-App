@@ -76,6 +76,15 @@ p {
   color: white;
 }
 
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:focus-visible {
+  background-color: white !important;
+  border-color: darkolivegreen !important;
+  color: darkolivegreen !important;
+  box-shadow: 0 0 0 0.2rem rgba(85, 107, 47, 0.25) !important;
+}
+
 .header-container {
   width: 100%;
   min-height: 120px;
